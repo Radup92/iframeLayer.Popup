@@ -1,4 +1,4 @@
 iframeLayer.Popup.js
 ====================
 
-Iframe Layer Popup
+iframe Layer Popup
